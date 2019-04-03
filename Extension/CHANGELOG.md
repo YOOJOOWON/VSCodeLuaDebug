@@ -1,3 +1,8 @@
+## 1.1.1
+* When the debugger is detached, it will be in waiting state
+* Added an icon to the debugger modal.
+* Fixed several bugs.
+
 ## 1.1.0
 * Now supports non-Windows environments. (experimental)
 * Fixed several bugs.
